@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 53ab54c339c7bef42aa799ef20eb32db
+guid: eff1a754ea9a6dc42af59b869bf71134
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,9 +123,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: c1
+  - name: ketkhuc
     originalName: 
-    pivot: {x: 0.52008927, y: -0.10467705}
+    pivot: {x: 0.52342045, y: -0.14146061}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 
@@ -133,9 +133,9 @@ ScriptedImporter:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 448
-      height: 449
-    spriteID: d8b374f8606136e49ac98b2f5d147bd3
+      width: 1836
+      height: 1739
+    spriteID: 73116b1c06e240c449770d65cbd372b6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -147,21 +147,21 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1467239126
-    name: c1
+    guid: 1650181287
+    name: ketkhuc
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: c1
+    - name: ketkhuc
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
-        x: 17
-        y: 47
-        width: 448
-        height: 449
-      spriteId: d8b374f8606136e49ac98b2f5d147bd3
+        x: 39
+        y: 246
+        width: 1836
+        height: 1739
+      spriteId: 73116b1c06e240c449770d65cbd372b6
     linkedCells: []
     parentIndex: -1
   platformSettings:
@@ -180,5 +180,5 @@ ScriptedImporter:
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
-  canvasSize: {x: 500, y: 500}
-  previousTextureSize: {x: 512, y: 512}
+  canvasSize: {x: 2000, y: 2000}
+  previousTextureSize: {x: 2048, y: 2048}
