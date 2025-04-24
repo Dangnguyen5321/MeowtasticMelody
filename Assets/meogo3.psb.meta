@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 414e50abad656d447a39fdab09f85afd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 9738dd6935a7704478e0ab7acd655174
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: tay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 133
+      width: 33
+      height: 34
+    spriteID: a55b936c269335f4baf76d80e2145120
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 133}
+    spritePosition: {x: 419, y: 1552}
+  - name: mieng
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 133
+      width: 16
+      height: 15
+    spriteID: b04157a5bd76ab54fa84aa6aec6c586d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 133}
+    spritePosition: {x: 417, y: 1597}
+  - name: matphai
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 188
+      width: 15
+      height: 17
+    spriteID: 46d37abb102093c4283b41a805ee2db0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 188}
+    spritePosition: {x: 399, y: 1608}
+  - name: mattrai
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 156
+      width: 15
+      height: 16
+    spriteID: f97756b6d29fbf64696922489b26a278
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 156}
+    spritePosition: {x: 438, y: 1606}
+  - name: rauphai
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 228
+      width: 23
+      height: 22
+    spriteID: 5a6e0ba43e11a1541b0aa111b5b79225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 228}
+    spritePosition: {x: 474, y: 1584}
+  - name: body
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 112
+      height: 121
+    spriteID: 487174132da3fcc4b9cd58059ea0909f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 376, y: 1531}
+  - name: taitrai
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 188
+      width: 35
+      height: 31
+    spriteID: 2d1fd8ea6d7b1a24cacb8118d9efe095
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 188}
+    spritePosition: {x: 394, y: 1633}
+  - name: taiphai
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 188
+      width: 34
+      height: 32
+    spriteID: fab9b31a6f4f1ca4d93a9604de18fb3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 188}
+    spritePosition: {x: 442, y: 1631}
+  - name: rautrai
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 188
+      width: 11
+      height: 15
+    spriteID: 3e3dd167d8f51e84c9a108298ff874ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 112, y: 188}
+    spritePosition: {x: 372, y: 1597}
+  - name: duoi
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 133
+      width: 44
+      height: 47
+    spriteID: 21e62e9413cef754fb8c77d47c1d90c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 133}
+    spritePosition: {x: 464, y: 1544}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: meogotrong
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 8b084e2bfa0538a4d896534707379fee
+    layerID: 4
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: tay
+    spriteName: tay
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a55b936c269335f4baf76d80e2145120
+    layerID: 19
+    mosaicPosition: {x: 56, y: 133}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mieng
+    spriteName: mieng
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b04157a5bd76ab54fa84aa6aec6c586d
+    layerID: 17
+    mosaicPosition: {x: 97, y: 133}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: matnhamphai
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 037a4d4d7af8b53438e107423f00b63f
+    layerID: 10
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: matnhamtrai
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 393a70bf4ad482f4db16be0f8cb27149
+    layerID: 8
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: matphai
+    spriteName: matphai
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 46d37abb102093c4283b41a805ee2db0
+    layerID: 16
+    mosaicPosition: {x: 89, y: 188}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mattrai
+    spriteName: mattrai
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f97756b6d29fbf64696922489b26a278
+    layerID: 15
+    mosaicPosition: {x: 97, y: 156}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: rauphai
+    spriteName: rauphai
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5a6e0ba43e11a1541b0aa111b5b79225
+    layerID: 14
+    mosaicPosition: {x: 4, y: 228}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: body
+    spriteName: body
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 487174132da3fcc4b9cd58059ea0909f
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: taitrai
+    spriteName: taitrai
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2d1fd8ea6d7b1a24cacb8118d9efe095
+    layerID: 11
+    mosaicPosition: {x: 46, y: 188}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: taiphai
+    spriteName: taiphai
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fab9b31a6f4f1ca4d93a9604de18fb3e
+    layerID: 12
+    mosaicPosition: {x: 4, y: 188}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: rautrai
+    spriteName: rautrai
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3e3dd167d8f51e84c9a108298ff874ae
+    layerID: 13
+    mosaicPosition: {x: 112, y: 188}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: duoi
+    spriteName: duoi
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 21e62e9413cef754fb8c77d47c1d90c6
+    layerID: 18
+    mosaicPosition: {x: 4, y: 133}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
