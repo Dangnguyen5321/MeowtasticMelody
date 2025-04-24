@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530536259011",
+    "firebase_url": "https://unity2dgame-40d64-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unity2dgame-40d64",
+    "storage_bucket": "unity2dgame-40d64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530536259011:android:698803364540acf0dcf176",
+        "android_client_info": {
+          "package_name": "com.thehoc.game2d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530536259011-mqud9fnfmm2h0j4tntr5hfka3577d11k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz2PkP7QQaOQVJWSH6zcHk5s3Z13puJbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530536259011-mqud9fnfmm2h0j4tntr5hfka3577d11k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
