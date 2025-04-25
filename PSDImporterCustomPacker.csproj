@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{514DE023-D0CD-5C29-7D92-155F9C845F39}</ProjectGuid>
+    <ProjectGuid>{41BCA22C-8587-30FA-0BD5-3C3E8D12D1C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PSDImporterCustomPacker</AssemblyName>
