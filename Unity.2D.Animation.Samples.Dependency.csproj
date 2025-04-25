@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D846B2A3-C69D-5F0D-68E2-F43C48C4FAB4}</ProjectGuid>
+    <ProjectGuid>{A46584AF-52CE-798A-5E89-54CC23BDCF1A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Animation.Samples.Dependency</AssemblyName>

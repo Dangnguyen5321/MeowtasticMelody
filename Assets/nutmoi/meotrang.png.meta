@@ -132,6 +132,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -434,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meotrang_0: 3621046833580819781
+      meotrang_1: -4702099537869485877
+      meotrang_10: -1288896697386575047
+      meotrang_11: 49120819070567147
+      meotrang_12: -7534444318759588708
+      meotrang_2: 5201901548952303653
+      meotrang_3: -4831938606437230380
+      meotrang_4: 4144144299046776157
+      meotrang_5: 6119432081442645476
+      meotrang_6: 775655675255897745
+      meotrang_7: -2017587166156315371
+      meotrang_8: 6903252097086168490
+      meotrang_9: 7544200205871627019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

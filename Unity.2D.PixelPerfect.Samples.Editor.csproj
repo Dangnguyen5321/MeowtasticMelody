@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6A4013A7-858D-5648-F5ED-AEB3BFAF8D5D}</ProjectGuid>
+    <ProjectGuid>{CC2BB743-A08B-DDAB-1456-4678783B3A9B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.PixelPerfect.Samples.Editor</AssemblyName>
@@ -1190,7 +1190,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.PixelPerfect.Samples.csproj">
-      <Project>{8603940A-2A90-059C-87ED-D2B1E79D7717}</Project>
+      <Project>{A9B4681B-305F-F2A6-3AF8-ED5AE0BF8ACE}</Project>
       <Name>Unity.2D.PixelPerfect.Samples</Name>
     </ProjectReference>
   </ItemGroup>
